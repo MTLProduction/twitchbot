@@ -1,0 +1,14 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "A twitch bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Blaquiere",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
