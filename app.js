@@ -13,7 +13,7 @@ var options = {
     },
     identity: {
         username: "codeItBot",
-        // Using the external file
+        // Using the external file with the password
         password: oauth.password
     },
     channels: ["gocodeit"]
